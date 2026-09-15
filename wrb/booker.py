@@ -159,7 +159,7 @@ class Booker:
                     return o
         if strict and prefer:
             return None
-        return min(options, key=lambda o: o.size) if options else None
+        return max(options, key=lambda o: o.size) if options else None
 
     # --------------------------------------------------------------- step 4
     def select(self, option):
