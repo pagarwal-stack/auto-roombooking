@@ -11,27 +11,1258 @@
   },
   "rules": [
     {
-      "name": "Booking pattern",
+      "name": "Winter Project Cycle Info Session",
       "weekdays": [
-        "Wed",
-        "Thu"
+        "Mon"
       ],
-      "start": "17:00",
-      "end": "22:00",
-      "terms": [
-        "autumn",
-        "spring",
-        "summer"
+      "date_ranges": [
+        [
+          "2026-10-05",
+          "2026-10-05"
+        ]
       ],
+      "start": "16:00",
+      "end": "18:00",
       "rooms": [
+        "FAB0.03",
+        "FAB0.08",
+        "S0.21",
+        "OC0.02",
+        "OC0.04",
+        "FAB2.43",
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
         "OC1.06",
         "OC1.09",
-        "OC1.04",
-        "OC1.01"
+        "S0.11",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
       ],
-      "strict_rooms": true,
-      "size": 6,
-      "reason": "KCSOC"
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Intro to Consulting with Warwick ACS and Prosper Warwick",
+      "weekdays": [
+        "Wed"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-07",
+          "2026-10-07"
+        ]
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "rooms": [
+        "FAB2.43",
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Summer Project Cycle (Project Showcase)",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-08",
+          "2026-10-08"
+        ]
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "rooms": [
+        "S0.21",
+        "OC0.02",
+        "FAB0.08",
+        "OC0.04",
+        "FAB0.03"
+      ],
+      "strict_rooms": false,
+      "size": 30,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Influencer Panel",
+      "weekdays": [
+        "Fri"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-09",
+          "2026-10-09"
+        ]
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "rooms": [
+        "OC1.05",
+        "OC0.03",
+        "FAB0.03",
+        "FAB0.08",
+        "MS.02"
+      ],
+      "strict_rooms": false,
+      "size": 50,
+      "reason": "180DC event"
+    },
+    {
+      "name": "CV Clinic and Spring Week Panel",
+      "weekdays": [
+        "Sun"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "rooms": [
+        "OC0.03",
+        "FAB0.03",
+        "FAB0.08",
+        "MS.02"
+      ],
+      "strict_rooms": false,
+      "size": 30,
+      "reason": "180DC event"
+    },
+    {
+      "name": "CV Clinic and Spring Week Panel",
+      "weekdays": [
+        "Sun"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-11",
+          "2026-10-11"
+        ]
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "OC0.05",
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB2.43",
+        "S0.11",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 15,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OW CV clinic + Women's case workshop",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-12",
+          "2026-10-12"
+        ]
+      ],
+      "start": "13:00",
+      "end": "18:00",
+      "rooms": [
+        "OC1.09",
+        "OC1.04",
+        "OC1.01",
+        "OC0.01",
+        "OC1.06",
+        "FAB2.43",
+        "S0.11",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OW recruitment presentation",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-12",
+          "2026-10-12"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.03",
+        "FAB0.03",
+        "OC1.05",
+        "MS.02",
+        "FAB0.08"
+      ],
+      "strict_rooms": false,
+      "size": 70,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OW consultants working room 1",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-12",
+          "2026-10-12"
+        ]
+      ],
+      "start": "12:00",
+      "end": "20:00",
+      "rooms": [
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OW consultants working room 2",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-12",
+          "2026-10-12"
+        ]
+      ],
+      "start": "12:00",
+      "end": "20:00",
+      "rooms": [
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OW consultants working room 3",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-12",
+          "2026-10-12"
+        ]
+      ],
+      "start": "12:00",
+      "end": "20:00",
+      "rooms": [
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "CapitalOne recruitment event",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-15",
+          "2026-10-15"
+        ]
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "FAB2.43",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OC&C recruitment event",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-15",
+          "2026-10-15"
+        ]
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "FAB2.43",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OC&C consultants working rooms 1",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-15",
+          "2026-10-15"
+        ]
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "rooms": [
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "OC&C consultants working rooms 2",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-15",
+          "2026-10-15"
+        ]
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "rooms": [
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "CA101 Session 1",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-19",
+          "2026-10-19"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "FAB2.43",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Stage 2 Workshop",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-19",
+          "2026-10-19"
+        ]
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "FAB2.43",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Women in Consulting Panel",
+      "weekdays": [
+        "Tue"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-20",
+          "2026-10-20"
+        ]
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "rooms": [
+        "FAB0.03",
+        "FAB0.08",
+        "S0.21",
+        "OC0.02",
+        "OC0.04",
+        "FAB2.43",
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "EconSoc Event",
+      "weekdays": [
+        "Wed"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-21",
+          "2026-10-21"
+        ]
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "rooms": [
+        "FAB0.03",
+        "FAB0.08",
+        "S0.21",
+        "OC0.02",
+        "OC0.04",
+        "FAB2.43",
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "CA101 Session 2",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-22",
+          "2026-10-22"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "FAB2.43",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "CA101 Session 3",
+      "weekdays": [
+        "Mon"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-26",
+          "2026-10-26"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "FAB2.43",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Winter Project Cycle AC",
+      "weekdays": [
+        "Tue"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-27",
+          "2026-10-27"
+        ]
+      ],
+      "start": "09:00",
+      "end": "20:00",
+      "rooms": [
+        "FAB1.05",
+        "FAB1.07",
+        "FAB1.08",
+        "FAB1.09",
+        "FAB1.11",
+        "FAB1.12",
+        "FAB1.13",
+        "FAB1.14",
+        "FAB1.15",
+        "FAB2.33",
+        "FAB2.34",
+        "FAB2.35",
+        "FAB2.36",
+        "FAB2.47",
+        "FAB2.48",
+        "FAB2.61",
+        "FAB3.25",
+        "FAB3.26",
+        "FAB3.28",
+        "FAB3.29",
+        "FAB3.30",
+        "FAB3.31",
+        "FAB3.33",
+        "FAB3.35",
+        "FAB4.01",
+        "FAB4.52",
+        "FAB4.73",
+        "FAB4.74",
+        "FAB4.78",
+        "FAB4.79",
+        "FAB4.80",
+        "FAB5.02",
+        "FAB6.01",
+        "FAB6.04",
+        "FAB6.05"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Winter Project Cycle AC",
+      "weekdays": [
+        "Wed"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-28",
+          "2026-10-28"
+        ]
+      ],
+      "start": "09:00",
+      "end": "20:00",
+      "rooms": [
+        "FAB1.05",
+        "FAB1.07",
+        "FAB1.08",
+        "FAB1.09",
+        "FAB1.11",
+        "FAB1.12",
+        "FAB1.13",
+        "FAB1.14",
+        "FAB1.15",
+        "FAB2.33",
+        "FAB2.34",
+        "FAB2.35",
+        "FAB2.36",
+        "FAB2.47",
+        "FAB2.48",
+        "FAB2.61",
+        "FAB3.25",
+        "FAB3.26",
+        "FAB3.28",
+        "FAB3.29",
+        "FAB3.30",
+        "FAB3.31",
+        "FAB3.33",
+        "FAB3.35",
+        "FAB4.01",
+        "FAB4.52",
+        "FAB4.73",
+        "FAB4.74",
+        "FAB4.78",
+        "FAB4.79",
+        "FAB4.80",
+        "FAB5.02",
+        "FAB6.01",
+        "FAB6.04",
+        "FAB6.05"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "CA101 Session 4",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-29",
+          "2026-10-29"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "FAB2.43",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Winter Project Cycle AC",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-29",
+          "2026-10-29"
+        ]
+      ],
+      "start": "09:00",
+      "end": "20:00",
+      "rooms": [
+        "FAB1.05",
+        "FAB1.07",
+        "FAB1.08",
+        "FAB1.09",
+        "FAB1.11",
+        "FAB1.12",
+        "FAB1.13",
+        "FAB1.14",
+        "FAB1.15",
+        "FAB2.33",
+        "FAB2.34",
+        "FAB2.35",
+        "FAB2.36",
+        "FAB2.47",
+        "FAB2.48",
+        "FAB2.61",
+        "FAB3.25",
+        "FAB3.26",
+        "FAB3.28",
+        "FAB3.29",
+        "FAB3.30",
+        "FAB3.31",
+        "FAB3.33",
+        "FAB3.35",
+        "FAB4.01",
+        "FAB4.52",
+        "FAB4.73",
+        "FAB4.74",
+        "FAB4.78",
+        "FAB4.79",
+        "FAB4.80",
+        "FAB5.02",
+        "FAB6.01",
+        "FAB6.04",
+        "FAB6.05"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Winter Project Cycle AC",
+      "weekdays": [
+        "Fri"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-30",
+          "2026-10-30"
+        ]
+      ],
+      "start": "09:00",
+      "end": "20:00",
+      "rooms": [
+        "FAB1.05",
+        "FAB1.07",
+        "FAB1.08",
+        "FAB1.09",
+        "FAB1.11",
+        "FAB1.12",
+        "FAB1.13",
+        "FAB1.14",
+        "FAB1.15",
+        "FAB2.33",
+        "FAB2.34",
+        "FAB2.35",
+        "FAB2.36",
+        "FAB2.47",
+        "FAB2.48",
+        "FAB2.61",
+        "FAB3.25",
+        "FAB3.26",
+        "FAB3.28",
+        "FAB3.29",
+        "FAB3.30",
+        "FAB3.31",
+        "FAB3.33",
+        "FAB3.35",
+        "FAB4.01",
+        "FAB4.52",
+        "FAB4.73",
+        "FAB4.74",
+        "FAB4.78",
+        "FAB4.79",
+        "FAB4.80",
+        "FAB5.02",
+        "FAB6.01",
+        "FAB6.04",
+        "FAB6.05"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Winter Project Cycle EM Interviews",
+      "weekdays": [
+        "Fri"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-30",
+          "2026-10-30"
+        ]
+      ],
+      "start": "09:00",
+      "end": "20:00",
+      "rooms": [
+        "FAB1.05",
+        "FAB1.07",
+        "FAB1.08",
+        "FAB1.09",
+        "FAB1.11",
+        "FAB1.12",
+        "FAB1.13",
+        "FAB1.14",
+        "FAB1.15",
+        "FAB2.33",
+        "FAB2.34",
+        "FAB2.35",
+        "FAB2.36",
+        "FAB2.47",
+        "FAB2.48",
+        "FAB2.61",
+        "FAB3.25",
+        "FAB3.26",
+        "FAB3.28",
+        "FAB3.29",
+        "FAB3.30",
+        "FAB3.31",
+        "FAB3.33",
+        "FAB3.35",
+        "FAB4.01",
+        "FAB4.52",
+        "FAB4.73",
+        "FAB4.74",
+        "FAB4.78",
+        "FAB4.79",
+        "FAB4.80",
+        "FAB5.02",
+        "FAB6.01",
+        "FAB6.04",
+        "FAB6.05"
+      ],
+      "strict_rooms": false,
+      "size": 5,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Winter Project Cycle EM Interviews",
+      "weekdays": [
+        "Sat"
+      ],
+      "date_ranges": [
+        [
+          "2026-10-31",
+          "2026-10-31"
+        ]
+      ],
+      "start": "09:00",
+      "end": "20:00",
+      "rooms": [
+        "FAB1.05",
+        "FAB1.07",
+        "FAB1.08",
+        "FAB1.09",
+        "FAB1.11",
+        "FAB1.12",
+        "FAB1.13",
+        "FAB1.14",
+        "FAB1.15",
+        "FAB2.33",
+        "FAB2.34",
+        "FAB2.35",
+        "FAB2.36",
+        "FAB2.47",
+        "FAB2.48",
+        "FAB2.61",
+        "FAB3.25",
+        "FAB3.26",
+        "FAB3.28",
+        "FAB3.29",
+        "FAB3.30",
+        "FAB3.31",
+        "FAB3.33",
+        "FAB3.35",
+        "FAB4.01",
+        "FAB4.52",
+        "FAB4.73",
+        "FAB4.74",
+        "FAB4.78",
+        "FAB4.79",
+        "FAB4.80",
+        "FAB5.02",
+        "FAB6.01",
+        "FAB6.04",
+        "FAB6.05"
+      ],
+      "strict_rooms": false,
+      "size": 5,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Exec meeting",
+      "weekdays": [
+        "Sun"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-01",
+          "2026-11-01"
+        ]
+      ],
+      "start": "09:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.05",
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 15,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Cornerstone Recruitment Event",
+      "weekdays": [
+        "Tue"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-03",
+          "2026-11-03"
+        ]
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "rooms": [
+        "OC0.05",
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Case Buddy Scheme",
+      "weekdays": [
+        "Tue"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-03",
+          "2026-11-03"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.05",
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Warwick Case Competition Info Session",
+      "weekdays": [
+        "Wed"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-04",
+          "2026-11-04"
+        ]
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "rooms": [
+        "FAB0.03",
+        "FAB0.08",
+        "S0.21",
+        "OC0.02",
+        "OC0.04",
+        "FAB2.43",
+        "OC0.01",
+        "OC1.01",
+        "OC1.04",
+        "OC1.06",
+        "OC1.09",
+        "S0.11",
+        "S0.13",
+        "S0.18",
+        "S0.19",
+        "S0.20"
+      ],
+      "strict_rooms": false,
+      "size": 20,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Winter Project Cycle (Onboarding)",
+      "weekdays": [
+        "Sat"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-07",
+          "2026-11-07"
+        ]
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "rooms": [
+        "OC0.04",
+        "OC0.02",
+        "S0.21"
+      ],
+      "strict_rooms": false,
+      "size": 30,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Case Buddy Scheme",
+      "weekdays": [
+        "Tue"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-17",
+          "2026-11-17"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.05",
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Warwick Case Competition Finals",
+      "weekdays": [
+        "Thu"
+      ],
+      "date_ranges": [
+        [
+          "2026-11-19",
+          "2026-11-19"
+        ]
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "rooms": [
+        "FAB0.08",
+        "FAB0.03",
+        "OC0.03",
+        "OC1.05",
+        "MS.02",
+        "L5",
+        "L4"
+      ],
+      "strict_rooms": false,
+      "size": 30,
+      "reason": "180DC event"
+    },
+    {
+      "name": "Case Buddy Scheme",
+      "weekdays": [
+        "Tue"
+      ],
+      "date_ranges": [
+        [
+          "2026-12-01",
+          "2026-12-01"
+        ]
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "rooms": [
+        "OC0.05",
+        "OC1.02",
+        "OC1.03",
+        "OC1.07",
+        "OC1.08",
+        "FAB1.06",
+        "FAB1.10",
+        "FAB2.31",
+        "FAB2.32",
+        "FAB3.32",
+        "FAB5.01",
+        "FAB5.03",
+        "FAB6.02",
+        "FAB6.03",
+        "S0.08",
+        "S0.09",
+        "S0.10",
+        "S0.17"
+      ],
+      "strict_rooms": false,
+      "size": 10,
+      "reason": "180DC event"
     }
   ]
 }
