@@ -42,7 +42,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 40,
       "reason": "180DC event"
     },
     {
@@ -72,7 +72,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 40,
       "reason": "180DC event"
     },
     {
@@ -110,7 +110,7 @@
         "MS.02"
       ],
       "strict_rooms": false,
-      "size": 30,
+      "size": 80,
       "reason": "180DC event"
     },
     {
@@ -139,7 +139,7 @@
         "OC0.04"
       ],
       "strict_rooms": false,
-      "size": 50,
+      "size": 100,
       "reason": "180DC event"
     },
     {
@@ -167,7 +167,7 @@
         "OC0.04"
       ],
       "strict_rooms": false,
-      "size": 30,
+      "size": 100,
       "reason": "180DC event"
     },
     {
@@ -202,7 +202,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 15,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -234,7 +234,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 60,
       "reason": "180DC event"
     },
     {
@@ -266,7 +266,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 60,
       "reason": "180DC event"
     },
     {
@@ -294,7 +294,7 @@
         "OC0.04"
       ],
       "strict_rooms": false,
-      "size": 70,
+      "size": 100,
       "reason": "180DC event"
     },
     {
@@ -340,7 +340,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -386,7 +386,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -432,7 +432,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -464,7 +464,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 50,
       "reason": "180DC event"
     },
     {
@@ -496,7 +496,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 50,
       "reason": "180DC event"
     },
     {
@@ -542,7 +542,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -588,7 +588,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -636,7 +636,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -684,7 +684,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -719,7 +719,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 50,
       "reason": "180DC event"
     },
     {
@@ -754,7 +754,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 50,
       "reason": "180DC event"
     },
     {
@@ -802,7 +802,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -850,7 +850,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -904,7 +904,7 @@
         "FAB6.05"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -958,7 +958,7 @@
         "FAB6.05"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -1006,7 +1006,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -1060,7 +1060,7 @@
         "FAB6.05"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -1114,7 +1114,7 @@
         "FAB6.05"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 20,
       "reason": "180DC event"
     },
     {
@@ -1168,7 +1168,7 @@
         "FAB6.05"
       ],
       "strict_rooms": false,
-      "size": 5,
+      "size": 10,
       "reason": "180DC event"
     },
     {
@@ -1222,7 +1222,7 @@
         "FAB6.05"
       ],
       "strict_rooms": false,
-      "size": 5,
+      "size": 10,
       "reason": "180DC event"
     },
     {
@@ -1259,7 +1259,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 15,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -1291,7 +1291,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -1328,7 +1328,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -1363,7 +1363,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 20,
+      "size": 50,
       "reason": "180DC event"
     },
     {
@@ -1396,7 +1396,7 @@
         "S0.20"
       ],
       "strict_rooms": false,
-      "size": 30,
+      "size": 100,
       "reason": "180DC event"
     },
     {
@@ -1433,7 +1433,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 30,
       "reason": "180DC event"
     },
     {
@@ -1459,7 +1459,7 @@
         "L4"
       ],
       "strict_rooms": false,
-      "size": 30,
+      "size": 50,
       "reason": "180DC event"
     },
     {
@@ -1496,7 +1496,7 @@
         "S0.17"
       ],
       "strict_rooms": false,
-      "size": 10,
+      "size": 30,
       "reason": "180DC event"
     }
   ]
