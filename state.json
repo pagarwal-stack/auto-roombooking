@@ -1,1 +1,284 @@
-{"booked": {}, "failures": {}, "flags": {}}
+{
+  "booked": {
+    "WRB2627|2026-10-05|17:00|19:00": {
+      "at": "2026-09-16T10:07:38",
+      "date": "2026-10-05",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested WLT has been reserved for you, from 17:00 to 19:00 on Monday, 05/10/2026. Room Reference Request? WLT BK4301E0 P book ",
+      "end": "19:00",
+      "reference": "BK4301E0",
+      "room": "WLT",
+      "rule": "Winter Project Cycle Info Session",
+      "start": "17:00"
+    },
+    "WRB2627|2026-10-06|17:00|19:00": {
+      "at": "2026-09-16T10:07:44",
+      "date": "2026-10-06",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested WLT has been reserved for you, from 17:00 to 19:00 on Tuesday, 06/10/2026. Room Reference Request? WLT BK4301E4 P book",
+      "end": "19:00",
+      "reference": "BK4301E4",
+      "room": "WLT",
+      "rule": "Intro to Consulting with Warwick ACS and Prosper Warwick",
+      "start": "17:00"
+    },
+    "WRB2627|2026-10-08|17:00|19:00": {
+      "at": "2026-09-16T10:07:50",
+      "date": "2026-10-08",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested L5 has been reserved for you, from 17:00 to 19:00 on Thursday, 08/10/2026. Room Reference Request? L5 BK4301E8 P book ",
+      "end": "19:00",
+      "reference": "BK4301E8",
+      "room": "L5",
+      "rule": "Summer Project Cycle (Project Showcase)",
+      "start": "17:00"
+    },
+    "WRB2627|2026-10-09|17:00|18:00": {
+      "at": "2026-09-16T10:07:56",
+      "date": "2026-10-09",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 17:00 to 18:00 on Friday, 09/10/2026. Room Reference Request? MS.02 BK4301EC P b",
+      "end": "18:00",
+      "reference": "BK4301EC",
+      "room": "MS.02",
+      "rule": "Influencer Panel",
+      "start": "17:00"
+    },
+    "WRB2627|2026-10-11|13:00|14:00": {
+      "at": "2026-09-16T10:08:03",
+      "date": "2026-10-11",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 13:00 to 14:00 on Sunday, 11/10/2026. Room Reference Request? MS.02 BK4301F2 P b",
+      "end": "14:00",
+      "reference": "BK4301F2",
+      "room": "MS.02",
+      "rule": "CV Clinic and Spring Week Panel",
+      "start": "13:00"
+    },
+    "WRB2627|2026-10-11|14:00|16:00": {
+      "at": "2026-09-16T10:08:09",
+      "date": "2026-10-11",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.01 has been reserved for you, from 14:00 to 16:00 on Sunday, 11/10/2026. Room Reference Request? MS.01 BK4301F6 P b",
+      "end": "16:00",
+      "reference": "BK4301F6",
+      "room": "MS.01",
+      "rule": "CV Clinic and Spring Week Panel",
+      "start": "14:00"
+    },
+    "WRB2627|2026-10-12|12:00|20:00": {
+      "at": "2026-09-16T10:08:18",
+      "date": "2026-10-12",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested A0.28 (Millburn) has been reserved for you, from 12:00 to 20:00 on Monday, 12/10/2026. Room Reference Request? A0.28 (",
+      "end": "20:00",
+      "reference": "BK4301FC",
+      "room": "A0.28 (Millburn)",
+      "rule": "OW consultants working room 1",
+      "start": "12:00"
+    },
+    "WRB2627|2026-10-12|18:00|20:00": {
+      "at": "2026-09-16T10:08:32",
+      "date": "2026-10-12",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 18:00 to 20:00 on Monday, 12/10/2026. Room Reference Request? MS.02 BK43020C P b",
+      "end": "20:00",
+      "reference": "BK43020C",
+      "room": "MS.02",
+      "rule": "OW recruitment presentation",
+      "start": "18:00"
+    },
+    "WRB2627|2026-10-15|15:00|17:00": {
+      "at": "2026-09-16T10:08:49",
+      "date": "2026-10-15",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested L5 has been reserved for you, from 15:00 to 17:00 on Thursday, 15/10/2026. Room Reference Request? L5 BK43021C P book ",
+      "end": "17:00",
+      "reference": "BK43021C",
+      "room": "L5",
+      "rule": "OC&C consultants working rooms 1",
+      "start": "15:00"
+    },
+    "WRB2627|2026-10-15|15:00|18:00": {
+      "at": "2026-09-16T10:08:41",
+      "date": "2026-10-15",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested WLT has been reserved for you, from 15:00 to 18:00 on Thursday, 15/10/2026. Room Reference Request? WLT BK430214 P boo",
+      "end": "18:00",
+      "reference": "BK430214",
+      "room": "WLT",
+      "rule": "CapitalOne recruitment event",
+      "start": "15:00"
+    },
+    "WRB2627|2026-10-15|16:00|18:00": {
+      "at": "2026-09-16T10:08:57",
+      "date": "2026-10-15",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested A0.28 (Millburn) has been reserved for you, from 16:00 to 18:00 on Thursday, 15/10/2026. Room Reference Request? A0.28",
+      "end": "18:00",
+      "reference": "BK430220",
+      "room": "A0.28 (Millburn)",
+      "rule": "OC&C recruitment event",
+      "start": "16:00"
+    },
+    "WRB2627|2026-10-19|16:00|18:00": {
+      "at": "2026-09-16T10:09:05",
+      "date": "2026-10-19",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested WLT has been reserved for you, from 16:00 to 18:00 on Monday, 19/10/2026. Room Reference Request? WLT BK43022C P book ",
+      "end": "18:00",
+      "reference": "BK43022C",
+      "room": "WLT",
+      "rule": "Stage 2 Workshop",
+      "start": "16:00"
+    },
+    "WRB2627|2026-10-19|18:00|20:00": {
+      "at": "2026-09-16T10:09:12",
+      "date": "2026-10-19",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 18:00 to 20:00 on Monday, 19/10/2026. Room Reference Request? MS.02 BK430232 P b",
+      "end": "20:00",
+      "reference": "BK430232",
+      "room": "MS.02",
+      "rule": "CA101 Session 1",
+      "start": "18:00"
+    },
+    "WRB2627|2026-10-20|17:00|19:00": {
+      "at": "2026-09-16T10:09:22",
+      "date": "2026-10-20",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested WLT has been reserved for you, from 17:00 to 19:00 on Tuesday, 20/10/2026. Room Reference Request? WLT BK43023C P book",
+      "end": "19:00",
+      "reference": "BK43023C",
+      "room": "WLT",
+      "rule": "Women in Consulting Panel",
+      "start": "17:00"
+    },
+    "WRB2627|2026-10-21|14:00|16:00": {
+      "at": "2026-09-16T10:09:32",
+      "date": "2026-10-21",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested R0.21 has been reserved for you, from 14:00 to 16:00 on Wednesday, 21/10/2026. Room Reference Request? R0.21 BK43024C ",
+      "end": "16:00",
+      "reference": "BK43024C",
+      "room": "R0.21",
+      "rule": "EconSoc Event",
+      "start": "14:00"
+    },
+    "WRB2627|2026-10-22|18:00|20:00": {
+      "at": "2026-09-16T10:09:42",
+      "date": "2026-10-22",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested R0.21 has been reserved for you, from 18:00 to 20:00 on Thursday, 22/10/2026. Room Reference Request? R0.21 BK430258 P",
+      "end": "20:00",
+      "reference": "BK430258",
+      "room": "R0.21",
+      "rule": "CA101 Session 2",
+      "start": "18:00"
+    },
+    "WRB2627|2026-10-26|18:00|20:00": {
+      "at": "2026-09-16T10:10:05",
+      "date": "2026-10-26",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 18:00 to 20:00 on Monday, 26/10/2026. Room Reference Request? MS.02 BK430278 P b",
+      "end": "20:00",
+      "reference": "BK430278",
+      "room": "MS.02",
+      "rule": "CA101 Session 3",
+      "start": "18:00"
+    },
+    "WRB2627|2026-10-29|18:00|20:00": {
+      "at": "2026-09-16T10:10:32",
+      "date": "2026-10-29",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested R0.21 has been reserved for you, from 18:00 to 20:00 on Thursday, 29/10/2026. Room Reference Request? R0.21 BK4302A4 P",
+      "end": "20:00",
+      "reference": "BK4302A4",
+      "room": "R0.21",
+      "rule": "CA101 Session 4",
+      "start": "18:00"
+    },
+    "WRB2627|2026-11-03|15:00|17:00": {
+      "at": "2026-09-16T10:11:18",
+      "date": "2026-11-03",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested A0.28 (Millburn) has been reserved for you, from 15:00 to 17:00 on Tuesday, 03/11/2026. Room Reference Request? A0.28 ",
+      "end": "17:00",
+      "reference": "BK4302D8",
+      "room": "A0.28 (Millburn)",
+      "rule": "Cornerstone Recruitment Event",
+      "start": "15:00"
+    },
+    "WRB2627|2026-11-03|18:00|20:00": {
+      "at": "2026-09-16T10:11:53",
+      "date": "2026-11-03",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 18:00 to 20:00 on Tuesday, 03/11/2026. Room Reference Request? MS.02 BK430310 P ",
+      "end": "20:00",
+      "reference": "BK430310",
+      "room": "MS.02",
+      "rule": "Case Buddy Scheme",
+      "start": "18:00"
+    },
+    "WRB2627|2026-11-04|16:00|17:00": {
+      "at": "2026-09-16T12:05:58",
+      "date": "2026-11-04",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 16:00 to 17:00 on Wednesday, 04/11/2026. Room Reference Request? MS.02 BK431C5C ",
+      "end": "17:00",
+      "reference": "BK431C5C",
+      "room": "MS.02",
+      "rule": "Warwick Case Competition Info Session",
+      "start": "16:00"
+    },
+    "WRB2627|2026-11-07|14:00|17:00": {
+      "at": "2026-09-16T12:06:38",
+      "date": "2026-11-07",
+      "detail": "University of Warwick WRB 26/27 Web Room Booking System 2026/27 Booking Requested MS.02 has been reserved for you, from 14:00 to 17:00 on Saturday, 07/11/2026. Room Reference Request? MS.02 BK431C7A P",
+      "end": "17:00",
+      "reference": "BK431C7A",
+      "room": "MS.02",
+      "rule": "Winter Project Cycle (Onboarding)",
+      "start": "14:00"
+    }
+  },
+  "failures": {
+    "WRB2627|2026-10-12|13:00|16:00": {
+      "at": "2026-09-16T12:43:42",
+      "count": 3,
+      "last": "no rooms offered"
+    },
+    "WRB2627|2026-10-12|16:00|18:00": {
+      "at": "2026-09-16T12:43:49",
+      "count": 3,
+      "last": "no rooms offered"
+    },
+    "WRB2627|2026-10-27|09:00|20:00": {
+      "at": "2026-09-16T12:43:52",
+      "count": 3,
+      "last": "no option '09:00' in Time1$StartTimeList (have: ['9:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00', '18:00', '19:00', '20:00', '21:00'])"
+    },
+    "WRB2627|2026-10-28|09:00|20:00": {
+      "at": "2026-09-16T12:43:56",
+      "count": 3,
+      "last": "no option '09:00' in Time1$StartTimeList (have: ['9:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00', '18:00', '19:00', '20:00', '21:00'])"
+    },
+    "WRB2627|2026-10-29|09:00|20:00": {
+      "at": "2026-09-16T12:44:06",
+      "count": 3,
+      "last": "no option '09:00' in Time1$StartTimeList (have: ['9:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00', '18:00', '19:00', '20:00', '21:00'])"
+    },
+    "WRB2627|2026-10-30|09:00|20:00": {
+      "at": "2026-09-16T12:44:14",
+      "count": 6,
+      "last": "no option '09:00' in Time1$StartTimeList (have: ['9:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00', '18:00', '19:00', '20:00', '21:00'])"
+    },
+    "WRB2627|2026-10-31|09:00|20:00": {
+      "at": "2026-09-16T12:44:16",
+      "count": 3,
+      "last": "no option '09:00' in Time1$StartTimeList (have: ['9:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00', '18:00', '19:00', '20:00', '21:00'])"
+    },
+    "WRB2627|2026-11-01|09:00|20:00": {
+      "at": "2026-09-16T12:44:20",
+      "count": 3,
+      "last": "no option '09:00' in Time1$StartTimeList (have: ['9:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00', '18:00', '19:00', '20:00', '21:00'])"
+    },
+    "WRB2627|2026-11-17|18:00|20:00": {
+      "at": "2026-09-16T12:44:29",
+      "count": 2,
+      "last": "date 2026-11-17 did not take (textbox=None)"
+    },
+    "WRB2627|2026-11-19|14:00|17:00": {
+      "at": "2026-09-16T12:44:42",
+      "count": 2,
+      "last": "date 2026-11-19 did not take (textbox=None)"
+    },
+    "WRB2627|2026-12-01|18:00|20:00": {
+      "at": "2026-09-16T12:44:58",
+      "count": 2,
+      "last": "date 2026-12-01 did not take (textbox=None)"
+    }
+  },
+  "flags": {
+    "announced:https://abs.warwick.ac.uk/WRB2627/": "2026-09-16T10:07:31"
+  }
+}
